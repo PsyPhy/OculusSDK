@@ -129,9 +129,6 @@
     <ClInclude Include="..\..\..\Src\Util\Util_Watchdog.h">
       <Filter>Util</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Src\Util\Util_Direct3D.h">
-      <Filter>Util</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\..\Src\Kernel\OVR_Win32_IncludeWindows.h">
       <Filter>Kernel</Filter>
     </ClInclude>
@@ -231,9 +228,6 @@
       <Filter>Util</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\Src\Util\Util_Watchdog.cpp">
-      <Filter>Util</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Src\Util\Util_Direct3D.cpp">
       <Filter>Util</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\Src\Kernel\OVR_Rand.cpp">

@@ -73,7 +73,6 @@
     <ClInclude Include="..\..\..\Src\Kernel\OVR_Types.h" />
     <ClInclude Include="..\..\..\Src\Kernel\OVR_UTF8Util.h" />
     <ClInclude Include="..\..\..\Src\Kernel\OVR_Win32_IncludeWindows.h" />
-    <ClInclude Include="..\..\..\Src\Util\Util_Direct3D.h" />
     <ClInclude Include="..\..\..\Src\Util\Util_ImageWindow.h" />
     <ClInclude Include="..\..\..\Src\Util\Util_LongPollThread.h" />
     <ClInclude Include="..\..\..\Src\Util\Util_SystemGUI.h" />
@@ -107,7 +106,6 @@
     <ClCompile Include="..\..\..\Src\Kernel\OVR_ThreadsWinAPI.cpp" />
     <ClCompile Include="..\..\..\Src\Kernel\OVR_Timer.cpp" />
     <ClCompile Include="..\..\..\Src\Kernel\OVR_UTF8Util.cpp" />
-    <ClCompile Include="..\..\..\Src\Util\Util_Direct3D.cpp" />
     <ClCompile Include="..\..\..\Src\Util\Util_ImageWindow.cpp" />
     <ClCompile Include="..\..\..\Src\Util\Util_LongPollThread.cpp" />
     <ClCompile Include="..\..\..\Src\Util\Util_SystemGUI.cpp" />
