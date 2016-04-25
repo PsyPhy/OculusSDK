@@ -23,7 +23,6 @@ limitations under the License.
 /// and also the GL support is not quite fully there yet, hence the VR
 /// is not that great!
 
-#include "../../OculusRoomTiny_Advanced/Common/Win32_GLAppUtil.h"
 #include "Kernel/OVR_System.h"
 
 // Include the Oculus SDK

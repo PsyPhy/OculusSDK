@@ -1957,7 +1957,7 @@ public:
 
     explicit Matrix4(const Quat<T>& q)
     {
-        OVR_MATH_ASSERT(q.IsNormalized());
+	        OVR_MATH_ASSERT(q.IsNormalized());
         T ww = q.w*q.w;
         T xx = q.x*q.x;
         T yy = q.y*q.y;
